@@ -26,6 +26,12 @@ Ce projet étant un projet de fin d'année en groupe, vous ne trouverez ici que 
 6. Explorez les statistiques disponibles pour évaluer l'efficacité du débruitage.
 7. Sauvegardez le résultat de votre projet.
 
+## Résultat
+
+<img width="677" height="518" alt="javafx1" src="https://github.com/user-attachments/assets/8584d41d-f563-4556-9033-aab28156ff9c" />
+<img width="678" height="521" alt="javafx2" src="https://github.com/user-attachments/assets/242cc818-49e1-4fed-9f7c-fcc7e0554535" />
+<img width="789" height="519" alt="javafx3" src="https://github.com/user-attachments/assets/f94ee89b-d770-41c6-b1bd-91721c7cba41" />
+
 ## Auteur
 
 Réalisé par Alexandre Pauly
